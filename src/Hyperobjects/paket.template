@@ -1,0 +1,21 @@
+﻿type project
+owners
+    Retail Relay, Inc.
+authors 
+    Christopher Atkins, Taylor Wood
+projectUrl
+    http://github.com/relayfoods/Hyperobjects
+iconUrl
+    https://raw.githubusercontent.com/relayfoods/Hyperobjects/master/docs/files/img/logo.png
+licenseUrl
+    http://github.com/relayfoods/Hyperobjects/blob/master/LICENSE.txt
+requireLicenseAcceptance
+    false
+copyright
+    Copyright 2015
+tags
+    REST
+summary
+    a framework for building RESTful event-sourced microservices following DDD patterns
+description
+    you can build stuff with this
